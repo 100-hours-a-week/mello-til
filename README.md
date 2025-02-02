@@ -10,7 +10,7 @@
 ### [2월 1주차] : 멀티 쓰레드, 웹, js
 25.02.01(토) 쓰레드의 수와 성능이 항상 비례할까 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-01.md))
 
-25.02.02(일) Git Repo 과제 + 웹,js 정리 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-02.md))
+25.02.02(일) Git QA 탬플릿 + 웹,js 정리 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-02.md))
 
 ### [2월 2주차] : 
 25.02.03(월) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
@@ -25,4 +25,19 @@
 
 25.02.08(토) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-08.md))
 
-25.02.08(일) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-09.md))
+25.02.09(일) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-09.md))
+
+### [2월 3주차] : 
+25.02.10(월) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-10.md))
+
+25.02.11(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-11.md))
+
+25.02.12(수) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-12.md))
+
+25.02.13(목) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-13.md))
+
+25.02.14(금) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-14.md))
+
+25.02.15(토) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-15.md))
+
+25.02.16(일) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-16.md))

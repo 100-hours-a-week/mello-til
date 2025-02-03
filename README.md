@@ -16,7 +16,7 @@
 ### [2월 2주차] : 
 25.02.03(월) 네트워크 이론 (1) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
 
-25.02.04(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-04.md))
+25.02.04(화) 네트워크 이론 (2) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-04.md))
 
 25.02.05(수) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-05.md))
 

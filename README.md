@@ -13,7 +13,7 @@
 25.02.02(일) Git QA 탬플릿, issue 생성 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-02.md))
 
 ### [2월 2주차] : 
-25.02.03(월) 네트워크 어쩌구([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
+25.02.03(월) 네트워크와 각 계층에 따른 분류 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
 
 25.02.04(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-04.md))
 

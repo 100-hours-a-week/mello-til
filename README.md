@@ -7,13 +7,13 @@
 
 25.01.31(금) 동기화와 뮤텍스, 세마포어 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Jan/2025-01-31.md))
 
-### [2월 1주차] : 멀티 쓰레드, 웹, js
+### [2월 1주차] : 멀티 쓰레드, 웹, js, Github Issue
 25.02.01(토) 쓰레드의 수와 성능이 항상 비례할까 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-01.md))
 
-25.02.02(일) Git QA ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-02.md))
+25.02.02(일) Git QA 탬플릿, issue 생성 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-02.md))
 
 ### [2월 2주차] : 
-25.02.03(월) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
+25.02.03(월) 네트워크 어쩌구([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-03.md))
 
 25.02.04(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-04.md))
 

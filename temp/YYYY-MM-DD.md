@@ -1,6 +1,4 @@
-# TIL Template
-
-## 날짜: YYYY-MM-DD
+## YYYY-MM-DD
 
 ### 스크럼
 - 학습 목표 1 : 아침 스크럼에 작성한 내용 붙여넣기

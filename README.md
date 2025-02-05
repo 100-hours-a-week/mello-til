@@ -22,7 +22,7 @@
 
 25.02.04(화) 패킷 트레이서를 통한 네트워크 구성 및 VLAN 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-04.md))
 
-25.02.05(수) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-05.md))
+25.02.05(수) Inter-VLAN 구성 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-05.md))
 
 25.02.06(목) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-06.md))
 

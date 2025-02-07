@@ -24,7 +24,7 @@
 
 25.02.05(수) Inter-VLAN 구성 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-05.md))
 
-25.02.06(목) 네트워크 보안 + 네트워크 구성도 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-06.md))
+25.02.06(목) 네트워크 보안 + 패킷 트레이서에 따른 ICMP(ping) 진행 절차 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-06.md))
 
 25.02.07(금) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-07.md))
 

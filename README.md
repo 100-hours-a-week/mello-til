@@ -28,9 +28,7 @@
 
 25.02.07(금) 딥다이브 - 이중화 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-07.md))
 
-25.02.08(토) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-08.md))
-
-25.02.09(일) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-09.md))
+25.02.09(일) 네트워크 흐름과 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-09.md))
 
 ### [2월 3주차] : 
 25.02.10(월) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-10.md))

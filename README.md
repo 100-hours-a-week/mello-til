@@ -31,7 +31,7 @@
 25.02.09(일) 네트워크 흐름과 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-09.md))
 
 ### [2월 3주차] : 
-25.02.10(월) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-10.md))
+25.02.10(월) 3주차 이론 정리([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-10.md))
 
 25.02.11(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-11.md))
 

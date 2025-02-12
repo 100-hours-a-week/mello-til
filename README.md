@@ -33,7 +33,7 @@
 ### [2월 3주차] : 
 25.02.10(월) 3주차 이론 정리(도커) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-10.md))
 
-25.02.11(화) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-11.md))
+25.02.11(화) 크램폴린 IDE, 도커 실습 일부([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-11.md))
 
 25.02.12(수) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-12.md))
 

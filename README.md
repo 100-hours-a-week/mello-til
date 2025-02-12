@@ -35,9 +35,9 @@
 
 25.02.11(화) 크램폴린 IDE, 도커 실습 일부([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-11.md))
 
-25.02.12(수) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-12.md))
+25.02.12(수) 도커 이미지 배포 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-12.md))
 
-25.02.13(목) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-13.md))
+25.02.13(목) 도커 볼륨, 도커파일, 크램폴린I IDE 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-13.md))
 
 25.02.14(금) ([상세 내역 링크](https://github.com/100-hours-a-week/mello-til/blob/main/Feb/2025-02-14.md))
 
